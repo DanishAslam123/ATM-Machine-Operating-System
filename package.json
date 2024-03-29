@@ -1,0 +1,21 @@
+{
+  "name": "danish739_atmsystem",
+  "version": "1.0.3",
+  "description": "this is a aimple ATM code with typescript, Node.js and Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "danish739_atmsystem": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
